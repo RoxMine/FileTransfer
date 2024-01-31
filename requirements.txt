@@ -1,3 +1,2 @@
-pyyaml
 customtkinter
 auto-py-to-exe
